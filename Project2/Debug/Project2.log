@@ -1,0 +1,3 @@
+﻿  Assembling main.asm...
+main.asm(4): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  Project2.vcxproj -> C:\Users\p8706\source\repos\Project2\Debug\Project2.exe
